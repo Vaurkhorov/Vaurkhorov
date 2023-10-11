@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vaurkhorov</h1>
 <h3 align="center">A Python and Rust developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaurkhorov&label=Profile%20views&color=0e75b6&style=flat-square" alt="vaurkhorov" /> </p>
+<p align="left"> <img src="https://assets.holopin.io/hf2023levels/level1-red-wig-0-0.webp" alt="vaurkhorov" /> </p>
 
 - 📫 How to reach me **sssamantaray77@gmail.com**
 
