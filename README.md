@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Vaurkhorov</h1>
 <h3 align="center">A Python and Rust developer</h3>
 
+Take a look at <a href="https://github.com/Vaurkhorov/kifi" target="blank">kifi</a> - an attempt to build a VCS from the ground up in Rust.
+
 [![An image of @vaurkhorov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaurkhorov)](https://holopin.io/@vaurkhorov)
 Reach me at **sssamantaray77@gmail.com**.
 
